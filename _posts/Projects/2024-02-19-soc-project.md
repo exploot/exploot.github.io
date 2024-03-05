@@ -10,7 +10,7 @@ mermaid: true
 image: https://i.ibb.co/GnJRGpP/Main-SOC-pic.jpg
 
 <author_id>:
-    name: Iapetus J. D.
+    name: exploot
 ---
 # SOC + Honeynet in Azure (Live Traffic) - 
 

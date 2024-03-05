@@ -9,7 +9,7 @@ comments: false
 mermaid: true
 
 <author_id>:
-    name: Iapetus J. D.
+    name: exploot
 ---
 # Generate a list of all the prime numbers, starting from the number *you* choose! - 
 
