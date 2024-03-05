@@ -1,7 +1,7 @@
 ---
 title: Securing the Cloud- Leveraging SOC and Honeynet in Azure
 date: 2024-02-19
-categories: [Projects, Python]
+categories: [Projects]
 tags: [Python, Azure, Security, Cloud, Administration, Incident Response]
 toc: false
 math: true

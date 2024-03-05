@@ -1,15 +1,19 @@
 ---
 # the default layout is 'page'
+title: About Me...
 icon: fas fa-info-circle
 order: 4
 ---
 
+Welcome to my website! I'm passionate about the ever-evolving realm of information security. With a keen eye for emerging threats and a fervent dedication to safeguarding digital landscapes, I navigate the intricate labyrinth of cybersecurity with gusto. My name is [Your Name], and I'm on a mission to fortify digital infrastructures against the relentless tide of cyber threats.
 
-Welcome to my website. Here, I've compiled a selection of projects that represent my professional expertise and personal interests. From meticulously crafted work-related endeavors to passion projects born out of curiosity, each entry reflects a commitment to excellence and a drive for continuous improvement.
+Certified by the industry's gold standards, I hold the prestigious titles of Certified Information Systems Security Professional (CISSP), Certified Information Systems Auditor (CISA), and Certified in Risk and Information Systems Control (CRISC). These certifications not only validate my expertise but also underscore my commitment to excellence in the field of information security.
 
-Within these digital pages, you'll find a diverse array of work spanning various domains, including cyber security, systems engineering, design, and beyond. Each project serves as a testament to my dedication to mastering my craft and exploring new horizons.
+Setting up this website wasn't without its share of challenges. From grappling with intricate coding intricacies to ensuring robust defenses against potential cyber threats, the journey was marked by trials and tribulations. Despite encountering numerous hurdles along the way, I persisted, driven by the vision of creating a platform to share insights, resources, and expertise in the realm of information security.
 
-I invite you to explore this collection and delve into the depth of my skills and experiences. Whether you're a fellow professional seeking inspiration or an enthusiast interested in my journey, I hope you find value in what you discover here.
+# Prolegomena to Future Endeavors:
 
-> Check out the community if you're here for philosophy/academics! `https://discord.gg/m9t3VbWczX`
+As I embark on this digital journey, this website reflects my steadfast dedication to information security. Here, I'll explore a wide range of topics that extend beyond cybersecurity, delving into areas such as digital innovation, privacy concerns, and more. Join me as we navigate the ever-changing digital landscape together, armed with insights, curiosity, and a commitment to prosper. Stay tuned for upcoming blogs, where we'll delve into diverse subjects and embark on new explorations beyond the realm of technology.
+
+> Check out the community! `https://discord.gg/m9t3VbWczX`
 {: .prompt-tip }

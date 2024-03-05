@@ -1,7 +1,7 @@
 ---
 title: Prime Number Generator
 date: 2023-07-07
-categories: [Projects, Python]
+categories: [Projects]
 tags: [Python, Math]
 toc: false
 math: true

@@ -1,7 +1,7 @@
 ---
 title: Tip Calculator
 date: 2023-01-18
-categories: [Projects, Python]
+categories: [Projects]
 tags: [Python]
 toc: false
 math: true

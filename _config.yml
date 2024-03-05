@@ -21,10 +21,10 @@ timezone: EST
 
 title: Iapetus J. D.                         # the main title
 
-tagline: CISA | CRISC | CISSP | Systems | Risk Management | Security  # it will display as the sub-title
+tagline: Digital Boundary Maintenance  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  My website. Serves as a portfolio but also as a blog.
+  My website, a portfolio, and a blog.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://exploot.github.io'

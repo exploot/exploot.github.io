@@ -1,7 +1,7 @@
 ---
 title: Chrome Darkmode Web Extension
 date: 2023-04-27
-categories: [Projects, JavaScript]
+categories: [Projects]
 tags: [JavaScript, Utility]
 toc: false
 math: true

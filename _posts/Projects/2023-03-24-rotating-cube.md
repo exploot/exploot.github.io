@@ -1,7 +1,7 @@
 ---
 title: Rotating Cube with OpenGL
 date: 2023-03-24
-categories: [Projects, Python]
+categories: [Projects]
 tags: [Python, OpenGL, Math]
 toc: false
 math: true
