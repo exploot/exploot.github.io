@@ -77,7 +77,7 @@ The following metrics were measured in an unsafe environment for 24 hours starti
 | SecurityIncident | 278 |
 | AzureNetworkAnalytics_CL | 726 |
 
-# Attack Maps Before Security Controls
+# Attack Maps After Security Controls
 
 *No queries were returned since there was no malicious activity in the 24 hour period after security controls were implemented.*
 
