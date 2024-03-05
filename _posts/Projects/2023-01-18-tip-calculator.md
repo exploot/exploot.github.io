@@ -21,8 +21,6 @@ Despite the initial setback, the rest of the project flowed relatively smoothly.
 
 Finally, as I ran the program and witnessed it in action, a sense of accomplishment washed over me. Though simple in nature, the tip calculator represented a milestone in my coding journey. It was a tangible reminder of how far I had come since my first foray into programming.
 
-Looking back on coding this tip calculator project, it's clear it was about more than just typing out code. It was about sticking with it, facing challenges head-on, and staying curious to learn more. Sure, the program isn't flawless, but it's a reflection of the steps I've taken and the road ahead in my coding journey.
-
 ```
 def tip_calc():
     price = int(input('Enter total price:'))
@@ -52,4 +50,5 @@ def verify():
 tip_calc()
 verify()
 ```
+Looking back on coding this tip calculator project, it's clear it was about more than just typing out code. It was about sticking with it, facing challenges head-on, and staying curious to learn more. Sure, the program isn't flawless, but it's a reflection of the steps I've taken and the road ahead in my coding journey.
 
