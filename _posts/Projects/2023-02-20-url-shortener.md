@@ -5,7 +5,6 @@ categories: [Projects]
 tags: [Python]
 toc: false
 math: true
-comments: true
 mermaid: true
 
 <author_id>:

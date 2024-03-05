@@ -5,7 +5,6 @@ categories: [Projects]
 tags: [Python, Azure, Security, Cloud, Administration, Incident Response]
 toc: true
 math: true
-comments: true
 mermaid: true
 image: https://i.ibb.co/GnJRGpP/Main-SOC-pic.jpg
 

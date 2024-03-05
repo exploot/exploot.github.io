@@ -5,7 +5,6 @@ categories: [Projects]
 tags: [Python, Math]
 toc: false
 math: true
-comments: true
 mermaid: true
 image: https://i.ibb.co/x8zKNWR/2024-03-0516-50-36-ezgif-com-video-to-gif-converter.gif
 
