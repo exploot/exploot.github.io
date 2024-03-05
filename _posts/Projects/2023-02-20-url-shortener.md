@@ -25,6 +25,6 @@ short_url = type_tiny.tinyurl.short(long_url) #TinyURL is the default API so thi
 
 print("Your new URL is: "+ short_url) #should be obvious what this does :)
 
-#Simple as that!
+#It's as simple as that!
 ```
 
