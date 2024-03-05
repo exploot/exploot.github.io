@@ -5,7 +5,7 @@ categories: [Projects]
 tags: [JavaScript, Utility]
 toc: false
 math: true
-comments: false
+comments: true
 mermaid: true
 image: https://i.ibb.co/jHFQRhz/2023-03-24-15-59-29.gif
 

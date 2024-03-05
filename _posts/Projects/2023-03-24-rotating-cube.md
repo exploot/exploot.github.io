@@ -5,7 +5,7 @@ categories: [Projects]
 tags: [Python, OpenGL, Math]
 toc: false
 math: true
-comments: false
+comments: true
 mermaid: true
 image: https://i.ibb.co/zV7SY0m/2023-03-24-16-16-34.gif
 
