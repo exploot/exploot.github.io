@@ -15,7 +15,8 @@ mermaid: true
 
 Creating this URL shortener was a smooth ride, thanks to Python's simplicity and the pyshorteners library. With just a few lines of code, I tapped into the TinyURL API, transforming long URLs into compact links effortlessly. It's a practical tool, showcasing Python's knack for simplifying everyday coding tasks.
 
-```import pyshorteners
+```
+import pyshorteners
 
 long_url = input("Enter the URL you wish to shorten: ") #The input for the long URL
 
