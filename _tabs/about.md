@@ -5,7 +5,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Welcome to my website! I'm passionate about the ever-evolving realm of information security. With a keen eye for emerging threats and a fervent dedication to safeguarding digital landscapes, I navigate the intricate labyrinth of cybersecurity with gusto. My name is [Your Name], and I'm on a mission to fortify digital infrastructures against the relentless tide of cyber threats.
+Welcome to my website! I'm passionate about the ever-evolving realm of information security. With a keen eye for emerging threats and a fervent dedication to safeguarding digital landscapes, I navigate the intricate labyrinth of cybersecurity with gusto. My name is Iapetus J. D., and I'm on a mission to fortify digital infrastructures against the relentless tide of cyber threats.
 
 Certified by the industry's gold standards, I hold the prestigious titles of Certified Information Systems Security Professional (CISSP), Certified Information Systems Auditor (CISA), and Certified in Risk and Information Systems Control (CRISC). These certifications not only validate my expertise but also underscore my commitment to excellence in the field of information security.
 
