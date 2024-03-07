@@ -1,4 +1,5 @@
 ---
+author: 
 title: Tip Calculator
 date: 2023-01-18
 categories: [Projects]
@@ -7,8 +8,7 @@ toc: false
 math: true
 mermaid: true
 
-<author_id>:
-    name: exploot
+
 ---
 # Simple code to calculate tips! - 
 

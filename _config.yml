@@ -80,6 +80,7 @@ img_cdn:
 avatar: https://artmuselondon.files.wordpress.com/2021/05/blake1.jpg
 
 # boolean type, the global switch for ToC in posts.
+toc: true
 toc: 1
 
 comments:

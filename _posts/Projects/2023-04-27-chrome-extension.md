@@ -1,4 +1,5 @@
 ---
+author: 
 title: Chrome Darkmode Web Extension
 date: 2023-04-27
 categories: [Projects]
@@ -8,8 +9,7 @@ math: true
 mermaid: true
 image: https://i.ibb.co/jHFQRhz/2023-03-24-15-59-29.gif
 
-<author_id>:
-    name: exploot
+
 ---
 # Darkmode Extension - 
 

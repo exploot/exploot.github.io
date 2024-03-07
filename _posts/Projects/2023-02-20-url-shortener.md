@@ -1,4 +1,5 @@
 ---
+author: 
 title: TinyURL Shortener with Python
 date: 2023-02-20
 categories: [Projects]
@@ -7,8 +8,7 @@ toc: false
 math: true
 mermaid: true
 
-<author_id>:
-    name: exploot
+
 ---
 # URL Shortener - 
 

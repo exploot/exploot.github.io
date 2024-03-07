@@ -1,4 +1,5 @@
 ---
+author: 
 title: Rotating Cube with OpenGL
 date: 2023-03-24
 categories: [Projects]
@@ -8,8 +9,7 @@ math: true
 mermaid: true
 image: https://i.ibb.co/zV7SY0m/2023-03-24-16-16-34.gif
 
-<author_id>:
-    name: Iapetus J. D.
+
 ---
 # Self Explanatory. It's a Rotating Cube. - 
 
