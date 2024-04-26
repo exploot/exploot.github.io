@@ -20,9 +20,8 @@ The script is divided into several sections. First, we define functions.
 Calculate-File-Hash function takes a file path and calculates its SHA256 hash using Get-FileHash. It returns the hash object containing both the file path and the calculated hash value. The Erase-Baseline-If-Already-Exists function checks for a baseline file named "baseline.txt" and deletes it if found.
 
 The script then prompts the user to choose between two options:
-
-    Collect new Baseline? This option calculates the SHA256 hash of all files in a specified directory (.\\Files by default) and stores them in a new "baseline.txt" file.
-    Begin monitoring files with saved Baseline? This option assumes a baseline file already exists and continuously monitors the files in the same directory for changes.
+1) Collect new Baseline? This option calculates the SHA256 hash of all files in a specified directory (.\\Files by default) and stores them in a new "baseline.txt" file.
+2) Begin monitoring files with saved Baseline? This option assumes a baseline file already exists and continuously monitors the files in the same directory for changes.
 
 ```
 Write-Host ""
