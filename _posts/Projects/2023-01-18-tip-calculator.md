@@ -4,7 +4,7 @@ title: Tip Calculator
 date: 2023-01-18
 categories: [Projects]
 tags: [Python]
-toc: false
+toc: true
 math: true
 mermaid: true
 

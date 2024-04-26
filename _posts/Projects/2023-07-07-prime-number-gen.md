@@ -4,7 +4,7 @@ title: Prime Number Generator
 date: 2023-07-07
 categories: [Projects]
 tags: [Python, Math]
-toc: false
+toc: true
 math: true
 mermaid: true
 image: https://i.ibb.co/x8zKNWR/2024-03-0516-50-36-ezgif-com-video-to-gif-converter.gif
