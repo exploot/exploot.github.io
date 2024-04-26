@@ -1,9 +1,9 @@
 ---
 author: 
 title: File Integrity Monitor
-date: 2023-07-07
+date: 2024-04-26
 categories: [Projects]
-tags: [Python, Math]
+tags: [Powershell, Security]
 toc: true
 math: true
 mermaid: true
