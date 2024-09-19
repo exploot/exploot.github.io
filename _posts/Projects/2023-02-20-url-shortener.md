@@ -4,7 +4,7 @@ title: TinyURL Shortener with Python
 date: 2023-02-20
 categories: [Projects]
 tags: [Python]
-toc: false
+toc: true
 math: true
 mermaid: true
 
