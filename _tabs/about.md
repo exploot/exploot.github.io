@@ -14,4 +14,4 @@ Setting up this website wasn't without its share of challenges. From grappling w
 # Prolegomena to Future Endeavors:
 
 As I embark on this digital journey, this website reflects my steadfast dedication to information security. Here, I'll explore a wide range of topics that extend beyond cybersecurity, delving into areas such as digital innovation, privacy concerns, and more. Join me as we navigate the ever-changing digital landscape together, armed with insights, curiosity, and a commitment to prosper. Stay tuned for upcoming blogs, where we'll delve into diverse subjects and embark on new explorations beyond the realm of technology.
-
+---
